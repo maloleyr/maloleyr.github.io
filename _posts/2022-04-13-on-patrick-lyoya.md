@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Patrick Layoya"
+title:  "On Patrick Lyoya"
 date:   2022-04-13 00:00:00 -0500
 categories:	police civil rights protest
 ---
