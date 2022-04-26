@@ -1,3 +1,8 @@
+/* Override theme defaults
+$base-font-family: HelveticaNeu;
+$brand-color: orange;
+*/
+/* load _sass/minima.scss */
 /**
  * Reset some basic elements
  */
@@ -503,3 +508,17 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+/* Put any custom CSS here */
+/*
+h1 {
+  padding-bottom: 2px;
+  color: blue;
+}
+*/
+body {
+  font-family: "Georgia", serif; }
+
+h1 {
+  border-left: 8px solid black;
+  padding-left: 5px; }
