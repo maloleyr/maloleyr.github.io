@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GrrCon 2022 Reflections"
-date:   2022-10-18 17:00:00 -0500
+date:   2022-10-18 00:00:00 -0500
 categories:	reflections security grrcon infosec conference leadership thoughts
 ---
 
