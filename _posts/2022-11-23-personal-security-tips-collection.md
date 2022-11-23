@@ -5,8 +5,6 @@ date:   2022-11-23 00:00:00 -0500
 categories:	security tips advice
 ---
 
-# Personal Security Tips Collection
-
 *Updated: 2022-11-23*
 
 This is a collection of my personal security tips that I follow in no given order. Feel free to use them and add to them.
