@@ -15,5 +15,5 @@ My primary social media forum is the infosec.exchange Mastodon server. The musin
 My professional social media is LinkedIn. I'll admit I rarely check it. You can still find me there however.  
 -----> [LinkedIn](https://www.linkedin.com/in/richard-maloley-ii-2273b06/)
 
-You can also reach me on Twitter. Be warned that my Twitter is primarily used for politics and tech news.  
+You can also reach me on Twitter. Be warned that my Twitter is primarily used for politics and tech news. Also I just don't know how long Twitter will be a viable platform.  
 -----> `@RichardRRCC`
