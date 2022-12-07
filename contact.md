@@ -9,7 +9,7 @@ You can contact me via email. You'll have to do some work here.
 -----> `richard [at] maloley.me` [Public Key Optional](../files/richard@maloley.me_0x94CCAC6BF3F0FD07.asc)  
 -----> `richard.maloley [at] protonmail.com` (encrypted by default)
 
-My primary social media forum is the infosec.exchange Mastodon server. The musings there will be a heavy mix of technical, personal, political, and everything in between.  
+My primary social media forum is the [infosec.exchange](https://infosec.exchange) Mastodon server. The musings there will be a heavy mix of technical, personal, political, and everything in between.  
 -----> `@rmaloley@infosec.exchange`
 
 My professional social media is LinkedIn. I'll admit I rarely check it. You can still find me there however.  
