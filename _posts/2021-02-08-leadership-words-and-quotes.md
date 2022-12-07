@@ -2,6 +2,7 @@
 layout: post
 title:  "Leadership Words and Quotes"
 date:   2021-02-08 00:00:00 -0500
+author:	"Richard Maloley II"
 categories: leadership
 ---
 

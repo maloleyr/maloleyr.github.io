@@ -2,6 +2,7 @@
 layout: post
 title:  "Reflections on Kodiak"
 date:   2022-04-26 00:00:00 -0500
+author:	"Richard Maloley II"
 categories:	reflections kodiak leadership travel
 ---
 These are my reflections on my most recent interim Director of IT role. I found the role and experience to be a challenge worth facing. It made me uncomfortable and forced me to adapt and learn. I would absolutely do it again.

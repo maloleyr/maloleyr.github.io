@@ -2,6 +2,7 @@
 layout: post
 title:  "On Patrick Lyoya"
 date:   2022-04-13 00:00:00 -0500
+author:	"Richard Maloley II"
 categories:	police civil rights protest
 ---
 

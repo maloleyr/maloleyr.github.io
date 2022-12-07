@@ -2,6 +2,7 @@
 layout: post
 title:  "Practical Privacy Tips"
 date:   2020-01-26 00:00:00 -0500
+author:	"Richard Maloley II"
 categories: security privacy
 ---
 Once a secret is shared it is no longer private and in your control.

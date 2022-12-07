@@ -2,6 +2,7 @@
 layout: post
 title:  "Personal Security Tips Collection"
 date:   2022-11-23 00:00:00 -0500
+author:	"Richard Maloley II"
 categories:	security tips advice
 ---
 

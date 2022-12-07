@@ -2,6 +2,7 @@
 layout: post
 title:  "Password Best Practices"
 date:   2020-11-27 00:00:00 -0500
+author:	"Richard Maloley II"
 categories: security password passphrase
 ---
 Passwords. We all hate them. There are only a few things in life that I hate. Passwords are amongst those things. Truth be told it isn't the function that I hate but the arcane implementations and policies that lead us to bad passwords. That is a fundamental truth. I say we just admit to that truth and move on to some practical advice. The goal for this musing is to introduce some best practices that anyone can follow to improve their use of passwords immediately.

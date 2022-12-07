@@ -2,6 +2,7 @@
 layout: post
 title:  "GrrCon 2022 Reflections"
 date:   2022-10-18 00:00:00 -0500
+author:	"Richard Maloley II"
 categories:	reflections security grrcon infosec conference leadership thoughts
 ---
 

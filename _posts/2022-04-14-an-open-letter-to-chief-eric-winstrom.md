@@ -2,6 +2,7 @@
 layout: post
 title:  "An Open Letter to Chief Eric Winstrom"
 date:   2022-04-14 00:00:00 -0500
+author:	"Richard Maloley II"
 categories:	police layoya
 ---
 

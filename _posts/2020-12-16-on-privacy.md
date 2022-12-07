@@ -2,6 +2,7 @@
 layout: post
 title:  "On Privacy"
 date:   2020-12-16 00:00:00 -0500
+author:	"Richard Maloley II"
 categories: privacy
 ---
 "Our idea of privacy is a continuous illusion that we create and destroy day in and day out."
