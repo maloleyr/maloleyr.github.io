@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Personal Security Tips Collection"
+title:  "The Year of the Linux Desktop"
 date:   2022-12-06 00:00:00 -0500
 updated:	2022-12-06 20:45:00 -0500
 author:	"Richard Maloley II"
