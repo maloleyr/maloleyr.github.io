@@ -3,7 +3,7 @@ layout: page
 title: Media
 permalink: /media/
 ---
-# Media
+## Media
 
 This is a loose collection of any of my media appearances via audio, print, and video. 
 
@@ -16,6 +16,3 @@ This is a loose collection of any of my media appearances via audio, print, and 
 ## 2018
 
 - Grand Rapids Business Journal: [Security flaws reside in Intel processors](https://grbj.com/news/security-flaws-reside-in-intel-processors/)
-
-
-

@@ -3,7 +3,7 @@ layout: home
 ---
 **Welcome - I'm glad that you are here.**
 
-Welcome to my simple web presence. My name is Richard and this is, one of, my digital homes away from home. In this space you'll find information about my consulting experience, my musings, and maybe some more. This home serves both personal and professional causes. I make no guarantee that this content is always correct or up to date.
+Welcome to my simple web presence. My name is Richard and this is, one of, my digital homes away from home. In this space you'll find information about my consulting experience, my musings, and maybe some more. This home serves both personal and professional causes. I'm glad that you are here, friend.
 
 **What's with the plain colors and layout?**
 
