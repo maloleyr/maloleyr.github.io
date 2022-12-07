@@ -8,7 +8,7 @@ permalink: /about/
 
 "Insert Professional Important Biography Here."
 
-*Richard is a Senior Security Consultant and Ethical Hacker at OST who focuses on performing informaton technology security assessments, audits, and penetration tests for customers. Between assessments you can find Richard researching current vulnerabilities, writing tips for staying safe in this connected world, and providing security awareness training. With a passion for people, Richard uses each engagement to create positive change and promote good security hygiene within organizations and communities.*
+*Richard is a Senior Security Consultant and Ethical Hacker at OST who focuses on performing information technology security assessments, audits, and penetration tests for customers. Between assessments you can find Richard researching current vulnerabilities, writing tips for staying safe in this connected world, and providing security awareness training. With a passion for people, Richard uses each engagement to create positive change and promote good security hygiene within organizations and communities.*
 
 In all seriousness my day job is with Open System Technologies (OST) here in Grand Rapids. I spend my days working directly with clients to review, assess, and advise on their information security practices and state. When I'm not doing that I am reading, musing, and writing. I'm currently a Senior Security Consultant and Ethical Hacker which is a fancy way of saying I get to do malicious things legally (and in an ethical way).
 
