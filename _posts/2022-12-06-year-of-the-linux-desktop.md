@@ -7,7 +7,7 @@ author:	"Richard Maloley II"
 categories:	linux ubuntu pop_os gaming
 ---
 
-This is an initial post on the topic of "The Year of the Linux Desktop" as it is an expansive topic. For me I've been looking for The Year that Linux will be 100% usable as a daily driver for a standard person. Or for myself. For a while I gave up on that dream.
+This is an update post on the topic of ["The Year of the Linux Desktop"](/2021/01/10/the-year-of-linux.html) as it is an expansive topic. For me I've been looking for The Year that Linux will be 100% usable as a daily driver for a standard person. Or for myself. For a while I gave up on that dream.
 
 Then one day I realized that that moment came and went. We are now officially in "The Time of the Linux Desktop" and I'll explain why.
 
