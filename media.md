@@ -9,9 +9,12 @@ This is a loose collection of any of my media appearances via audio, print, and 
 
 ### 2023
 
+- MiSec: Grand Rapids Chapter - "Back to the Basics"
+  - [Video Link](https://www.youtube.com/watch?app=desktop&v=EzIZg8ZXptc)
+  - December 14
 - Project Management Institute [Western Michigan Chapter](https://wmpmi.org/): Keynote Presenter at [THEProject - COLLEGIATE COMPETITION](https://wmpmi.org/the-project-collegiate-competition) on April 10.
   - The keynote was recorded and the video is not yet available.
-- [WoodTV 8](https://www.woodtv.com/): [Interview to comment on the "Juice Jacking"](https://www.woodtv.com/news/kent-county/juice-jacking-dont-use-charging-stations-at-airports-fbi-warns/) warning from the [FBI](https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-juice-jacking).
+- [WoodTV 8](https://www.woodtv.com/): [Interview to comment on the "Juice Jacking"](https://www.woodtv.com/news/kent-county/juice-jacking-dont-use-charging-stations-at-airports-fbi-warns/) warning from the [FBI](https://www.fbi.gov/contact-us/field-offices/portland/news/press-releases/oregon-fbi-tech-tuesday-building-a-digital-defense-against-juice-jacking) (April 12).
 
 ### 2022
 
