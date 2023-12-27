@@ -6,8 +6,8 @@ permalink: /contact/
 There are several ways for you to get into contact with me. Except via telephone. Not a big fan and I rarely make exceptions.
 
 You can contact me via email. You'll have to do some work here.  
------> `richard [at] maloley.me`
------> `richard.maloley [at] protonmail.com` (encrypted by default)
+-----> `richard [at] maloley.me`  
+-----> `richard.maloley [at] protonmail.com` (encrypted by default)  
 
 My primary social media forum is the [infosec.exchange](https://infosec.exchange) Mastodon server. The musings there will be a heavy mix of technical, personal, political, and everything in between.  
 -----> `@rmaloley@infosec.exchange`
