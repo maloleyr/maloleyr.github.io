@@ -12,11 +12,11 @@ You can contact me via email. You'll have to do some work here.
 My primary social media forum is the [infosec.exchange](https://infosec.exchange) Mastodon server. The musings there will be a heavy mix of technical, personal, political, and everything in between.  
 -----> `@rmaloley@infosec.exchange`
 
-My professional social media is LinkedIn. I'll admit I rarely check it. You can still find me there however.  
+My professional social media is LinkedIn. Feel free to connect with me.  
 -----> [LinkedIn](https://www.linkedin.com/in/richard-maloley-ii-2273b06/)
 
-You can also find me on Signal. I'm not posting that phone number here. If you know you know. If you need to know then try email first.
+You can also find me on Signal. I'm not posting that phone number here. If you know you know. If you need to know then email me first.
 -----> `Email Me`
 
-You can also reach me on Twitter. Be warned that my Twitter is primarily used for politics and tech news. Also I just don't know how long Twitter will be a viable platform.  
+You can also reach me on Twitter. I only use Twitter (it is _not_ X) to browse for infosec/political news. I no longer post content on Twitter. I just don't know how long Twitter will be a viable platform.  
 -----> `@RichardRRCC`
