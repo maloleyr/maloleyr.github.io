@@ -7,6 +7,13 @@ permalink: /media/
 
 This is a loose collection of any of my media appearances via audio, print, and video. 
 
+### 2024
+
+- MiSec: Grand Rapids Chapter - "Group Discussion on OpSec"
+  - No Video Link
+  - A planned speaker was unable to speak so I led the group in a discussion about OpSec.
+  - January 11
+
 ### 2023
 
 - MiSec: Grand Rapids Chapter - "Back to the Basics"
